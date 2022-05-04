@@ -1,0 +1,14 @@
+# Crilic to english converter
+# Getting Started
+
+First import package:
+
+    $from crilic_to_english import CrilicToEnglish
+        
+A simple example:
+
+    $ converter = CrilicToEnglish()
+    If only translate:
+    $ translate = converter.translate()
+    With slugify:
+    $ translate = converter.translate()    
